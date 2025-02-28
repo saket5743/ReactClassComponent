@@ -7,6 +7,7 @@ function App() {
     <div>
       {/* <MainNavbar /> */}
       <MainClass />
+      Tanish
     </div>
   );
 }
