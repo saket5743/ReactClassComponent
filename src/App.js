@@ -1,15 +1,13 @@
-// import MainNavbar from "./MainNavbar/MainNavbar";
+import MainPageYoutube from "./Youtube/MainPageYoutube";
+import React, { Component } from 'react'
 
-import MainClass from "./ComponentUsingClass/MainClass";
-
-function App() {
-  return (
-    <div>
-      {/* <MainNavbar /> */}
-      <MainClass />
-      Tanish
-    </div>
-  );
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <MainPageYoutube />
+      </div>
+    )
+  }
 }
 
-export default App;
