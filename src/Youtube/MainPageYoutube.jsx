@@ -12,7 +12,7 @@ export default class MainPageYoutube extends Component {
         <div style={{display:'flex'}}>
         
         <Sidebar />
-        <div style={{display:'', marginLeft:''}}>
+        <div >
         <All />
         <VideoBox />
         </div>
