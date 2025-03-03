@@ -11,7 +11,7 @@ const Container = styled.div`
   background-color: #f9f9f9;
   position: fixed;
   margin-left: 250px;
-  margin-top: 64px;
+  margin-top: 80px;
   height: 100px;
   width: calc(100% - 250px);
   display: flex;
