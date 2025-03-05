@@ -11,8 +11,8 @@ const Container = styled.div`
   background-color: #f9f9f9;
   position: fixed;
   margin-left: 250px;
-  margin-top: 80px;
-  height: 100px;
+  margin-top: 70px;
+  height: 90px;
   width: calc(100% - 250px);
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@ const Container = styled.div`
 const CategoryButton = styled.button`
   background-color: ${props => props.active ? 'black' : 'lightgray'};
   color: ${props => props.active ? 'white' : 'black'};
-  padding: 8px 16px;
+  padding: 4px 16px;
   height: 48px;
   border-radius: 10px;
   margin-left: 20px;

@@ -9,7 +9,7 @@ export default class Header extends Component {
   render() {
     return (
       <div>
-        <div style={{backgroundColor:"white", position:'fixed', height:'85px', width:'1519px' }}>
+        <div style={{backgroundColor:"white", position:'fixed', height:'85px', width:'1535px' }}>
             <div style={{display:'flex'}}>
             <div style={{paddingLeft:'20px', paddingTop:'26px', cursor:'pointer'}}>
                 <MenuIcon />

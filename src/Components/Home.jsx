@@ -8,7 +8,7 @@ const Home = () => {
     fetch("https://fakestoreapi.com/products")
       .then((response) => response.json())
       .then((data) => {
-        setValue(data);
+      setValue(data);
       });
   }, []);
 

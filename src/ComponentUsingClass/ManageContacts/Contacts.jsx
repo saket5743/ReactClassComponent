@@ -29,29 +29,3 @@ export default class Contacts extends Component {
   }
 }
 
-
-
-// import React, { Component } from "react";
-
-// export default class Contacts extends Component {
-//   render() {
-//     return (
-//       <div>
-//         <div style={{ backgroundColor: "pink", marginTop: "5px", textAlign: "center" }}>
-//           <h1>Contacts</h1>
-//           {this.props.contacts.length === 0 ? (
-//             <p>No contacts added</p>
-//           ) : (
-//             <ul style={{ listStyleType: "none", padding: 0 }}>
-//               {this.props.contacts.map((contact, index) => (
-//                 <li key={index} style={{ margin: "10px", fontSize: "18px" }}>
-//                   <strong>{contact.name}</strong> - {contact.email}
-//                 </li>
-//               ))}
-//             </ul>
-//           )}
-//         </div>
-//       </div>
-//     );
-//   }
-// }

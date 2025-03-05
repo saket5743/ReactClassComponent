@@ -9,7 +9,7 @@
     {
       "id": "2",
       "title": "Full-Stack Development with Node.js & Express",
-      "url": "https://www.youtube.com/watch?v=rY8DJ5EZzZo&t=6s",
+      "url": "https://www.youtube.com/watch?v=PCcMF1xTQO0",
       "thumbnail": "https://www.w3schools.com/howto/img_mountains.jpg",
       "description": "Build a full-stack app using Node.js and Express."
     },
@@ -78,6 +78,90 @@
     },
     {
       "id": "12",
+      "title": "State Management in React with Redux",
+      "url": "https://www.youtube.com/watch?v=fxT54eRIsc4",
+      "thumbnail": "https://www.w3schools.com/howto/img_lights.jpg",
+      "description": "Manage global state in React applications using Redux."
+    },
+    {
+      "id": "13",
+      "title": "Mastering React Hooks",
+      "url": "https://www.youtube.com/watch?v=pe5ulXojRO8",
+      "thumbnail": "https://www.w3schools.com/howto/img_snow.jpg",
+      "description": "Deep dive into React Hooks with practical examples."
+    },
+    {
+      "id": "14",
+      "title": "Full-Stack Development with Node.js & Express",
+      "url": "https://www.youtube.com/watch?v=PCcMF1xTQO0",
+      "thumbnail": "https://www.w3schools.com/howto/img_mountains.jpg",
+      "description": "Build a full-stack app using Node.js and Express."
+    },
+    {
+      "id": "15",
+      "title": "Understanding JavaScript Closures",
+      "url": "https://www.youtube.com/watch?v=vKJpN5FAeF4",
+      "thumbnail": "https://www.w3schools.com/howto/img_lights.jpg",
+      "description": "A step-by-step guide to JavaScript closures."
+    },
+    {
+      "id": "16",
+      "title": "CSS Flexbox vs. Grid: When to Use What?",
+      "url": "https://www.youtube.com/watch?v=3elGSZSWTbM",
+      "thumbnail": "https://www.w3schools.com/howto/img_forest.jpg",
+      "description": "Comparison of Flexbox and Grid layout systems in CSS."
+    },
+    {
+      "id": "17",
+      "title": "MongoDB Crash Course",
+      "url": "https://www.youtube.com/watch?v=tww-gbNPOcA&t=8038s",
+      "thumbnail": "https://www.w3schools.com/howto/img_snow_wide.jpg",
+      "description": "Introduction to NoSQL databases using MongoDB."
+    },
+    {
+      "id": "18",
+      "title": "Build a REST API with Express.js",
+      "url": "https://www.youtube.com/watch?v=-MTSQjw5DrM",
+      "thumbnail": "https://www.w3schools.com/howto/img_forest.jpg",
+      "description": "Learn to create a REST API with Express.js from scratch."
+    },
+    {
+      "id": "19",
+      "title": "Deploying a MERN App to Heroku",
+      "url": "https://www.youtube.com/watch?v=pfSxssgPofo",
+      "thumbnail": "https://www.w3schools.com/howto/img_nature_wide.jpg",
+      "description": "Step-by-step guide to deploying a full-stack MERN app."
+    },
+    {
+      "id": "20",
+      "title": "Authentication & Authorization in Node.js",
+      "url": "https://www.youtube.com/watch?v=OWeruyqhiTo",
+      "thumbnail": "https://www.w3schools.com/howto/img_mountains_wide.jpg",
+      "description": "Understanding authentication & JWT-based authorization."
+    },
+    {
+      "id": "21",
+      "title": "React Performance Optimization Tips",
+      "url": "https://www.youtube.com/watch?v=nrIAVhs3PmQ",
+      "thumbnail": "https://www.w3schools.com/howto/img_paris.jpg",
+      "description": "Improve React app performance with these best practices."
+    },
+    {
+      "id": "22",
+      "title": "Async/Await vs. Promises in JavaScript",
+      "url": "http://youtube.com/watch?v=li7FzDHYZpc",
+      "thumbnail": "https://www.w3schools.com/howto/img_mountains.jpg",
+      "description": "Comparing async/await with promises for async operations."
+    },
+    {
+      "id": "23",
+      "title": "GraphQL vs. REST APIs",
+      "url": "https://www.youtube.com/watch?v=PTfZcN20fro",
+      "thumbnail": "https://www.w3schools.com/howto/img_snow.jpg",
+      "description": "Understanding the key differences between GraphQL and REST."
+    },
+    {
+      "id": "24",
       "title": "State Management in React with Redux",
       "url": "https://www.youtube.com/watch?v=fxT54eRIsc4",
       "thumbnail": "https://www.w3schools.com/howto/img_lights.jpg",
